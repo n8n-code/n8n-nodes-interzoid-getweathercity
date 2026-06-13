@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-interzoid-getweathercity",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "API delivers US city weather: temperature, wind speed/direction, humidity, visibility.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-interzoid-getweathercity",
